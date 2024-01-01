@@ -101,12 +101,12 @@ You can use the following markodwn format to create a table.
 | baz | bim |
 ```
 
-Github extends the functionality of MArkdown tables to provide more alignment and table cell formatting option. [<sup>(5)</sup>](external-references)
+Github extends the functionality of MArkdown tables to provide more alignment and table cell formatting option. [<sup>(5)</sup>](#ference)
 
 
 ## Step 6 - 
 
-## external Reference 
+## Reference 
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github)<sup>(1)</sup>
 - [Github flavored markdown](https://github.github.com/gfm/)<sup>(2)</sup>
 - [GFM](https://github.github.com/gfm/#task-list-items-extension-)<sup>(3)</sup>

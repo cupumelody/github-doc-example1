@@ -130,7 +130,7 @@ Github extends the functionality of MArkdown tables to provide more alignment an
 ![download (3)](https://github.com/cupumelody/github-doc-example1/assets/145847069/9450df34-9e9b-4684-ad5f-920d3ed2f7a3)
 
 
-[Secret Window Hidden Garden](secret-window/hidden-garden.md)
+[secret window hidden garden](secret-window/hidden-garden.md)
 
 ## External References 
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github)<sup>(1)</sup>
